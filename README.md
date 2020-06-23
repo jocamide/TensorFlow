@@ -48,7 +48,7 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 1. [Watch me coding](https://www.youtube.com/watch?v=D4mJZQdgV0Y)
 
-
+okay
 2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.keras.ipynb) 
 
 
